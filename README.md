@@ -1,5 +1,5 @@
-# RISC-V-chip-tapeout
-"In this program, we learn to design a System-on-Chip (SoC) from basic RTL to GDSII using open-source tools.
+
+" This repository documents my learning and exploration of the open-source ASIC design flow.
 
 ### week 0-Environment Setup and Tool Installation Open-Source EDA Ecosystem (Yosys, OpenLane, Magic, etc.)
 done
@@ -26,3 +26,6 @@ done
 #### day 4: static behavior evaluation: cmos inverter robustness and noise margin
 #### day 5: static behavior evaluation: cmos inverter robustness - power supply variation
 done 
+
+### week 5
+#### Openroad installation 
